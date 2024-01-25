@@ -1,4 +1,4 @@
-<h1 align="center>DIO Desenvolvimento de Jogos Tech Ifood</h1>
+<h1 align="center >DIO Desenvolvimento de Jogos Tech Ifood</h1>
 
 <h3>Curso DIO Potência Tech iFood - Desenvolvimento de Jogos</h3> 
 
