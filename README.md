@@ -4,9 +4,11 @@
 
 <img  src= "https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png" height="250" width="250" >
 
-<!--ts-->
-   * [Simulador Piano](#sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-<!--te-->
-
-
+<p align="center">
+ <a href="#objetivo">Simulador Piano</a> •
+ <a href="#roadmap">Detona Ralph</a> • 
+ <a href="#tecnologias">oKenPo Yu-Gi-Oh!</a> • 
+ <a href="#contribuicao">Jogo da Memória</a> • 
+ <a href="#licenc-a">Desafios de Codigo</a> • 
+ <a href="#autor">Sobre</a>
+</p>
