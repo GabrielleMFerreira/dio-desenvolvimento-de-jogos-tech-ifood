@@ -4,13 +4,18 @@
 
 <img  src= "https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png" height="250" width="250" >
 
-<p align="center">
- <a href="#Construindo um Simulador de Piano com JavaScript">Simulador de Piano</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p>
+<!--ts-->
+   * [Simulador de Piano](#Sobre)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Instalação](#instalacao)
+   * [Como usar](#como-usar)
+      * [Pre Requisitos](#pre-requisitos)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+   * [Tests](#testes)
+   * [Tecnologias](#tecnologias)
+<!--te-->
 
 
