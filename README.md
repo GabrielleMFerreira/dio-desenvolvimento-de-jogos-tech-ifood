@@ -12,7 +12,7 @@
  <a href="#tecnologias">JoKenPo Yu-Gi-Oh!</a> • 
  <a href="#contribuicao">Jogo da Memória</a> • 
  <a href="#licenc-a">Desafios de Codigo</a> • 
- <a href="#autor">Sobre</a>
+ <a >Sobre</a>
 </p>
 
 
