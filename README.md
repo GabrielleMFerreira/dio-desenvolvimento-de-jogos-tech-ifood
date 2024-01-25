@@ -5,7 +5,7 @@
 <img  src= "https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png" height="250" width="250" >
 
 <!--ts-->
-   * [Simulador de Piano](#Sobre)
+   * [Simulador Piano](#simulador)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
