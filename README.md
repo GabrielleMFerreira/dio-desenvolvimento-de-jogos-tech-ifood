@@ -4,14 +4,12 @@
 
 <img src= https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png >
 
-<h2>Repositório criado para estudos e desafios de codigos e projetos</h2>
-
 Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
+   * [Simulador de Piano](#Construindo um Simulador de Piano com JavaScript)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
       * [Local files](#local-files)
